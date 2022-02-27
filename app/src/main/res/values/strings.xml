@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="tvPrincipal">Welcome to Menu</string>
+    <string name="tvFirst">First Activity</string>
+    <string name="tvSecond">Second Activity</string>
+    <string name="btnFirsActivity">Firs Activity</string>
+    <string name="btnSecondActivity">Second Activity</string>
+    <string name="btnFirstBack">Menu</string>
+    <string name="btnSecondBack">Menu</string>
+    <string name="btnGoFirst">First Activity</string>
+    <string name="btnGoSecond">Second Activity</string>
+</resources>
